@@ -94,7 +94,7 @@ let playerPoint = 0 ;
 
 
 
-//selecting buttons
+//buttons
 const rockBtn = document.getElementById('rock');
 const paperBtn = document.getElementById('paper');
 const scissorBtn = document.getElementById('scissor');
